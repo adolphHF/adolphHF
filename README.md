@@ -5,10 +5,10 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/adolfohernandezfdz" target="_blank">
+  <a href="https://www.linkedin.com/in/adolfohernandezfdz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="adolhdzf@gmail.com" target="_blank">
+  <a href="mailto:adolhdzf@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://stackoverflow.com/users/24401402/user24401402?tab=profile" target="_blank">
@@ -32,7 +32,16 @@
 
 ###
 
-<p align="left">Soy estudiante de Ciencias Computacionales en el Tecnológico de Monterrey 🇲🇽<br><br>- 🔭 Actualmente me desempeño principalmente como desarrollador backend, construyendo sistemas impulsados por inteligencia artificial para llamadas automatizadas utilizando Amazon Connect, Serverless Framework y AWS.<br>- 📚 Estoy aprendiendo más sobre arquitecturas escalables y patrones seguros de desarrollo backend con Node.js, Python y servicios en la nube (AWS).<br>- 🏆 Ganador del primer lugar en equipo en el HackMx5, desarrollando una solución para predicciones sobre riesgos cardíacos utilizando herramientas de AWS.<br><br>💡 Algunos de mis proyectos recientes incluyen:<br>- **[Plataforma de boletaje para FAMEX 2025](https://famex2025.acceda.com.mx/)**: Sistema full-stack usando Node.js, React, PostgreSQL y servicios de AWS como Lambda, DynamoDB y SES para gestionar disponibilidad de asientos, pagos con PayPal y validación de boletos con código QR. <br>- **Sistema de riego automatizado**: Sistema embebido con microcontrolador PIC16F886 y sensor YL-69 para monitoreo de humedad en tierra y control de bomba sumergible—orientado a la sostenibilidad en la agricultura.<br><br>🌱 Me apasiona desarrollar soluciones escalables, optimizadas y seguras, así como explorar modelos de procesamiento de lenguaje natural, visión artificial y machine learning.</p>
+<p align="left">
+Soy estudiante de Ciencias Computacionales en el Tecnológico de Monterrey 🇲🇽<br><br>
+- 🔭 Actualmente me desempeño principalmente como desarrollador backend, construyendo sistemas impulsados por inteligencia artificial para llamadas automatizadas utilizando Amazon Connect, Serverless Framework y AWS.<br>
+- 📚 Estoy aprendiendo más sobre arquitecturas escalables y patrones seguros de desarrollo backend con Node.js, Python y servicios en la nube (AWS).<br>
+- 🏆 Ganador del primer lugar en equipo en el HackMx5, desarrollando una solución para predicciones sobre riesgos cardíacos utilizando herramientas de AWS.<br><br>
+💡 Algunos de mis proyectos recientes incluyen:<br>
+- **Plataforma de boletaje para FAMEX 2025**: Sistema full-stack usando Node.js, React, PostgreSQL y servicios de AWS como Lambda, DynamoDB y SES para gestionar disponibilidad de asientos, pagos con PayPal y validación de boletos con código QR. (https://famex2025.acceda.com.mx/) <br>
+- **Sistema de riego automatizado**: Sistema embebido con microcontrolador PIC16F886 y sensor YL-69 para monitoreo de humedad en tierra y control de bomba sumergible—orientado a la sostenibilidad en la agricultura.<br><br>
+🌱 Me apasiona desarrollar soluciones escalables, optimizadas y seguras, así como explorar modelos de procesamiento de lenguaje natural, visión artificial y machine learning.
+</p>
 
 ###
 
